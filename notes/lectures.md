@@ -19,11 +19,6 @@
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=ZvbzSrg0afE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" target="_blank"><img src="https://img.youtube.com/vi/ZvbzSrg0afE/0.jpg" width="750"
-alt="Execution Context Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -77,11 +72,6 @@ So the **final diagram** before deletion would look something like:
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=iLWTnMzWtj4&t=1s&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/iLWTnMzWtj4/0.jpg" width="750"
-alt="How JS is executed & Call Stack Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -128,11 +118,6 @@ var getName = function () {
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=Fnlnw8uY6jo&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/Fnlnw8uY6jo/0.jpg" width="750"
-alt="Hoisting Youtube Link"/></a>
 
 <br>
 
@@ -195,11 +180,6 @@ Outputs:
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=gSDncyuGw0s&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/gSDncyuGw0s/0.jpg" width="750"
-alt="Functions and Variable Environments Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -226,11 +206,6 @@ console.log(window.x); // 10
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=QCRpVw2KXf8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/QCRpVw2KXf8/0.jpg" width="750"
-alt="Shortest JS Program, window & this keyword Youtube Link"/></a>
 
 <br>
 
@@ -261,11 +236,6 @@ console.log(a); // Uncaught ReferenceError: a is not defined
 - **Never** assign _undefined_ to a variable manually. Let it happen on it's own accord.
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=B7iF6G3EyIk&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/B7iF6G3EyIk/0.jpg" width="750"
-alt="undefined vs not defined in JS Youtube Link"/></a>
 
 <br>
 
@@ -377,11 +347,6 @@ console.log(b); // Error, Not Defined
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=uH-tVP8MUs8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/uH-tVP8MUs8/0.jpg" width="750"
-alt="The Scope Chain, Scope & Lexical Environment Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -468,11 +433,6 @@ b = 1000; //this gives us TypeError: Assignment to constant variable.
 - Declare and initialize all variables with let to the top to avoid errors to shrink temporal dead zone window to zero.
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=BNC6slYCj50&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/BNC6slYCj50/0.jpg" width="750"
-alt="let & const in JS, Temporal Dead Zone Youtube Link"/></a>
 
 <br>
 
@@ -581,11 +541,6 @@ function x() {
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=lW_erSjyMeM&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/lW_erSjyMeM/0.jpg" width="750"
-alt="Block Scope & Shadowing in JS Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -649,11 +604,6 @@ alt="Block Scope & Shadowing in JS Youtube Link"/></a>
   - Freeze browser
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=qikxEIxsXco&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/qikxEIxsXco/0.jpg" width="750"
-alt="Closure in JS Youtube Link"/></a>
 
 <br>
 
@@ -732,11 +682,6 @@ x();
     ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=eBTBG4nda2A&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/eBTBG4nda2A/0.jpg" width="750"
-alt="setTimeout + Closures Interview Question in JS Youtube Link"/></a>
 
 <br>
 
@@ -940,11 +885,6 @@ y();
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=t1nFAMws5FI&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/t1nFAMws5FI/0.jpg" width="750"
-alt="Closures Interview Question in JS Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -1060,11 +1000,6 @@ console.log(b()); //we log the entire fun within b.
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=SHINoHxvTso&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/SHINoHxvTso/0.jpg" width="750"
-alt="First Class Functions ft. Anonymous Functions in JS Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -1167,11 +1102,6 @@ document.getElementById("clickMe").addEventListener("click", function xyz() {
 - Event listeners are heavy as they form closures. So even when call stack is empty, EventListener won't free up memory allocated to count as it doesn't know when it may need count again. So we remove event listeners when we don't need them (garbage collected) onClick, onHover, onScroll all in a page can slow it down heavily.
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=btj35dh3_U8&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/btj35dh3_U8/0.jpg" width="750"
-alt="Callback Functions in JS ft. Event Listeners in JS Youtube Link"/></a>
 
 <br>
 
@@ -1316,11 +1246,6 @@ Microtask Priority Visualization
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=8zKuNo4ay8E&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/8zKuNo4ay8E/0.jpg" width="750"
-alt="Asynchronous JavaScript & EVENT LOOP from scratch in JS Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -1356,11 +1281,6 @@ alt="Asynchronous JavaScript & EVENT LOOP from scratch in JS Youtube Link"/></a>
     ![JS Engine Demo](../assets/jsengine.png)
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=2WJL19wDH68&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/2WJL19wDH68/0.jpg" width="750"
-alt="JS Engine Exposed, Google's V8 Architecture in JS Youtube Link"/></a>
 
 <br>
 
@@ -1418,11 +1338,6 @@ alt="JS Engine Exposed, Google's V8 Architecture in JS Youtube Link"/></a>
   ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=nqsPmuicJJc&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/nqsPmuicJJc/0.jpg" width="750"
-alt="Trust issues with setTimeout() in JS Youtube Link"/></a>
 
 <br>
 
@@ -1524,11 +1439,6 @@ console.log(radiusArr.calculate(area))
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=HkWxvB1RJq0&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/HkWxvB1RJq0/0.jpg" width="750"
-alt="Higher-Order Functions ft. Functional Programming in JS Youtube Link"/></a>
 
 <br>
 
@@ -1724,11 +1634,6 @@ console.log(output); // ["Alok", "Ashish", "Ankit"]
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=zdp0zrpKzIE&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP" target="_blank"><img src="https://img.youtube.com/vi/zdp0zrpKzIE/0.jpg" width="750"
-alt="map, filter & reduce Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -1850,11 +1755,6 @@ api.createOrder(cart, function () {
 > 💡 Async programming in JavaScript exists because callback exits.
 
 more at `http://callbackhell.com/`
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=yEKtJGha3yM&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX" target="_blank"><img src="https://img.youtube.com/vi/yEKtJGha3yM/0.jpg" width="750"
-alt="map, filter & reduce Youtube Link"/></a>
 
 <br>
 
@@ -2040,11 +1940,6 @@ createOrder(cart)
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=ap-6PPAuK1Y&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=3&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/ap-6PPAuK1Y/0.jpg" width="750"
-alt="promise in Javascript Youtube Link"/></a>
 
 <br>
 
@@ -2248,11 +2143,6 @@ createOrder(cart)
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=U74BJcr8NeQ&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=4&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/U74BJcr8NeQ/0.jpg" width="750"
-alt="promise in Javascript Youtube Link"/></a>
 
 <br>
 
@@ -2493,11 +2383,6 @@ handlePromise().catch(err => console.log(err)); // this will work as handlePromi
 What one should use? `async-await` is just a syntactic sugar around promise. Behind the scene `async-await` is just promise. So both are same, it's just `async-await` is new way of writing code. `async-await` solves few of the short-coming of Promise like `Promise Chaining`. `async-await` also increases the readability. So sort of it is always advisable to use `async-await.`
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=6nv3qy3oNkc&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=4&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/6nv3qy3oNkc/0.jpg" width="750"
-alt="async-await in Javascript Youtube Link"/></a>
 
 <br>
 
@@ -2812,11 +2697,6 @@ Of all these, Promise.all is probably the most common in practice.
 
 <hr>
 
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=DlTVt1rZjIo&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=4&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/DlTVt1rZjIo/0.jpg" width="750"
-alt="promise-apis in Javascript Youtube Link"/></a>
-
 <br>
 
 <hr>
@@ -2939,12 +2819,3 @@ obj2.x();
 ```
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=9T4z98JcHR0&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=4&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/9T4z98JcHR0/0.jpg" width="750"
-alt="this keyword in Javascript Youtube Link"/></a>
-
-
-
-To Be Continued...
