@@ -306,8 +306,3 @@ Of all these, Promise.all is probably the most common in practice.
 
 
 <hr>
-
-Watch Live On Youtube below:
-
-<a href="https://www.youtube.com/watch?v=DlTVt1rZjIo&list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&index=4&ab_channel=AkshaySaini" target="_blank"><img src="https://img.youtube.com/vi/DlTVt1rZjIo/0.jpg" width="750"
-alt="async-await in Javascript Youtube Link"/></a>
